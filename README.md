@@ -1,3 +1,6 @@
+<img width="1198" height="598" alt="image" src="https://github.com/user-attachments/assets/9b9025fa-401a-491c-a07f-ec43b2e78d2f" />
+
+
 Berlin Marketplace Analytics: Logistics & Retention
 
 Project Overview:
